@@ -1,4 +1,4 @@
-# Stage 0. Self-Study
+# Stage 0. Self-Study Kottans 2022
 
 ## General
 
@@ -6,7 +6,7 @@
 - [ ] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 
----
+___
 
 ## Progress
 
