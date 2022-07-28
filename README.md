@@ -31,7 +31,7 @@ Before now, I used already some commands in command line, but now I learned more
 
 >1.Linux Survival (4 modules):
 
-![fest](./stage0/General/1.%20Linux%20CLI%20and%20Networking/linux_survival.png)
+![fest](./task_linux_cli/linux_survival.png)
 
 >2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2:
 
