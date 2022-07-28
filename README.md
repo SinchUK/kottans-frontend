@@ -3,7 +3,7 @@
 ## General
 
 - [x] Git Basics
-- [ ] Linux CLI and Networking
+- [x] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 
 ___
@@ -23,4 +23,24 @@ I try to write in English for practice, so I think you will be not strict for me
 
 ![fest](./stage0/General/0.%20Git%20Basics/introduction%20sequence.png)
 ![fest](./stage0/General/0.%20Git%20Basics/Git%20remotes%20Push%20&%20Pull%20done.png)
+</details>
+
+<details>
+<summary>Linux CLI and Networking</summary>
+Before now, I used already some commands in command line, but now I learned more of them and understand how I can make some things faster on work project. This commands was new for me "rmdir", "mkdir", "../".  Now I will use "../"  command more often.
+
+>1.Linux Survival (4 modules):
+
+![fest](./stage0/General/1.%20Linux%20CLI%20and%20Networking/linux_survival.png)
+
+>2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2:
+
+In this article about HTTP I took some interesting information for me.  New for me was a understanding of what is URL address more detailed then I known before. Very important for me was a what these means inner text  content in URL address.
+Good thing - know about all methods of request to server.
+I think need to try to use another methods of request to server then POST, GET.
+
+>3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2:
+
+After reading this part of article,  new for me was - difference of HTTP and HTTPS connects.
+Caching - this one of themes which need to learn more deeper.
 </details>
