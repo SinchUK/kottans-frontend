@@ -17,12 +17,12 @@ I try to write in English for practice, so I think you will be not strict for me
 
 >1.Introduction to Git and GitHub:
 
-![fest](./stage0/General/0.%20Git%20Basics/Git%20coursera%20done.png)
+![fest](./task_git_basics/Git%20coursera%20done.png)
 
 >2. Sequence, Push & Pull (learngitbranching.js.org) :
 
-![fest](./stage0/General/0.%20Git%20Basics/introduction%20sequence.png)
-![fest](./stage0/General/0.%20Git%20Basics/Git%20remotes%20Push%20&%20Pull%20done.png)
+![fest](./task_git_basics/introduction%20sequence.png)
+![fest](./task_git_basics/Git%20remotes%20Push%20&%20Pull%20done.png)
 </details>
 
 <details>
