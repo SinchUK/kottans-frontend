@@ -33,11 +33,16 @@ Before now, I used already some commands in command line, but now I learned more
 
 ![fest](./task_linux_cli/linux_survival.png)
 
->2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2:
+>2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1:
 
 In this article about HTTP I took some interesting information for me.  New for me was a understanding of what is URL address more detailed then I known before. Very important for me was a what these means inner text  content in URL address.
 Good thing - know about all methods of request to server.
 I think need to try to use another methods of request to server then POST, GET.
+
+>3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2:
+
+After reading this part of article,  new for me was - difference of HTTP and HTTPS connects.
+Caching - this one of themes which need to learn more deeper.
 </details>
 
 <details>
