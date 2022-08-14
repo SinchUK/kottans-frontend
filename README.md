@@ -5,6 +5,7 @@
 - [x] Git Basics
 - [x] Linux CLI and Networking
 - [x] VCS (hello gitty), GitHub and Collaboration
+- [x] Intro to HTML & CSS
 
 ___
 
@@ -47,7 +48,9 @@ Caching - this one of themes which need to learn more deeper.
 
 <details>
 <summary>2. VCS (hello gitty), GitHub and Collaboration</summary>
-New - is work with comments on GitHub. I need to practice it. Also good idea  is to make more deep describes in commits. 
+
+* New - is work with comments on GitHub. I need to practice it. 
+* Also good idea  is to make more deep describes in commits. 
 
 >1. Introduction to Git and GitHub (3 and 4 weeks):
 
@@ -65,4 +68,22 @@ New - is work with comments on GitHub. I need to practice it. Also good idea  is
 
 ![fest](./task_git_collaboration/photo3.png)
 
+</details>
+
+<details>
+<summary>3. Intro to HTML & CSS :</summary>
+
+
+>1.Intro to HTML & CSS ( Coursera ):
+
+    * new is understanding of how to make SPA with JS and JQuery
+    * in the future I want to practice a make SPA with JS and Bootstrap
+
+![fest](./task_html_css_intro/coursera%20JS.png)
+
+>2.Learn HTML & CSS ( https://www.codecademy.com/ ) :
+
+    * I learned new how to include the font in the project
+
+![fest](./task_html_css_intro/HTML&CSS.png)
 </details>
