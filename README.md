@@ -5,7 +5,10 @@
 - [x] Git Basics
 - [x] Linux CLI and Networking
 - [x] VCS (hello gitty), GitHub and Collaboration
+  
+## Front-End Basics
 - [x] Intro to HTML & CSS
+- [x] Responsive Web Design
 
 ___
 
@@ -86,4 +89,35 @@ Caching - this one of themes which need to learn more deeper.
     * I learned new how to include the font in the project
 
 ![fest](./task_html_css_intro/HTML&CSS.png)
+</details>
+
+<details>
+<summary>4.Responsive Web Design :</summary>
+
+
+>1.Responsive web design basics (READ):
+
+    * new: use any-hover, any-pointer,  Multicol 
+    * I was surprised: to enable older browsers to correctly parse attributes, use a comma to separate attributes in meta tag.
+    * need to use: try a grid layout in CSS
+
+
+>2.FLEXBOX. Вчимося верстати на флексах:
+
+    * new is to use flexbox for put footer to bottom when content area is not full.
+    * beafore I use don’t think about use flexbox in all project, only sometime if I need to centered elements.
+    * need to implement all power of flexbox in future projects 
+
+>3.Flexbox Froggy - гра для закріплення:
+
+![fest](./task_responsive_web_design/flex-froggy.png)
+
+>4.CSS Grid Layout
+
+    * new is grid system, don’t use it before
+    * surprised flexibility of grids
+
+>5.Grid Garden - гра для закріплення
+
+![fest](./task_responsive_web_design/Grid.png)
 </details>
