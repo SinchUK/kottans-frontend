@@ -9,7 +9,7 @@
 ## Front-End Basics
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
-
+- [x] HTML & CSS Practice
 ___
 
 ## Progress
@@ -120,4 +120,13 @@ Caching - this one of themes which need to learn more deeper.
 >5.Grid Garden - гра для закріплення
 
 ![fest](./task_responsive_web_design/Grid.png)
+</details>
+
+<details>
+<summary>5.HTML & CSS Practice</summary>
+
+
+>Practice:
+https://sinchuk.github.io/HTML-CSS-Popup/
+
 </details>
