@@ -10,6 +10,7 @@
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
 - [x] HTML & CSS Practice
+- [ ] JavaScript Basics
 ___
 
 ## Progress
