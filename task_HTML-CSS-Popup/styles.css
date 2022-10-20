@@ -4,8 +4,8 @@ body {
   box-sizing: border-box;
 }
   /** HEADER **/
-::-webkit-scrollbar {
-  width: 0px;
+.tooltip::-webkit-scrollbar {
+  width: 3px;
   fill: #757575;
 }
 .menu-items { 
@@ -84,6 +84,7 @@ body {
   width: 80px;
   height: 80px;
   margin-bottom: 15px;
+  list-style: none;
 }
 .tooltip-item:hover {
   border: 1px solid lightgray;
@@ -98,7 +99,6 @@ body {
   height: 100%;
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
   list-style: none;
   text-decoration: none;
   justify-content: space-around;
@@ -107,6 +107,7 @@ body {
 .tooltip-item a img {
   width: 45px;
   margin-bottom: 15px;
+  object-fit: contain;
 }
 .tooltip-item .width-30 {
   width: 30px;
@@ -139,6 +140,14 @@ body {
   padding: 10px 20px;
   justify-content: space-between;
   flex-wrap: wrap;
+}
+.tooltip-more-link {
+  padding: 5px 5px 20px;
+  text-align: center;
+  width: 100%;
+}
+.tooltip-more-link:hover {
+  color: #5b9bd5;
 }
 .tooltip-more__input:checked ~.tooltip-more-box {
   display: flex;
