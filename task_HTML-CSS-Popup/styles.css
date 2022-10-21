@@ -34,20 +34,22 @@ body {
   box-sizing: border-box;
   width: 25px;
 }
+.tooltip-block {
+  visibility: hidden;
+}
 .tooltip {
-  text-align: left;
-  position: absolute;
-  top: 65px;
-  width: 300px;
-  height: 475px;
   overflow-y: scroll;
   overflow-x: hidden;
-  z-index: 1;
   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
   transition: height 0.3s ease-in-out 0s;
   right: 115px;
   max-height: calc(-65px + 100vh);
-  visibility: hidden;
+  text-align: left;
+  position: absolute;
+  top: 65px;
+  width: 300px;
+  height: 440px;
+  z-index: 1;
 }
 .menu-item__input {
   width: 17px;
@@ -60,24 +62,26 @@ body {
   border: 2px solid #a6c8ff;
   border-radius: 3px;
 }
-.menu-item__input:checked ~.tooltip {
+.menu-item__input:checked ~.tooltip-block {
   visibility: visible;
   opacity: 1;
 }
-.menu-item__inner .tooltip::before {
+.tooltip-block:before {
   content: "";
   position: absolute;
-  bottom: 100%;
-  left: 80%;
-  margin-left: -7px;
-  border:10px solid #000;
-  border-color: transparent transparent white transparent;
+  margin-left: 2px;
+  top: 55px;
+  z-index: 999;
+  border: 10px solid;
+  border-color: white transparent transparent white;
+  box-shadow: -3px -3px 3px 0 rgb(0 0 0 / 7%);
+  transform: rotate(45deg);
 }
-.menu-item__inner, .menu-item__input {
+.menu-item__input, .tooltip-more__input {
   cursor: pointer;
 }
 .tooltip-items {
-  padding: 50px 20px 10px;
+  padding: 15px 20px 10px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -164,4 +168,17 @@ body {
 }
 .tooltip-more__input:checked ~.tooltip {
   overflow: scroll;
+}
+@media screen and (max-width: 425px) {
+  .tooltip {
+    right: 30px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .tooltip {
+    right: 10px;
+  }
+  .menu-item {
+    margin: 0px 10px;
+  }
 }
