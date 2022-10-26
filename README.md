@@ -10,7 +10,8 @@
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
 - [x] HTML & CSS Practice
-- [ ] JavaScript Basics
+- [x] JavaScript Basics
+- [ ] Document Object Model - practice
 ___
 
 ## Progress
@@ -129,5 +130,67 @@ Caching - this one of themes which need to learn more deeper.
 
 >Practice:
 https://sinchuk.github.io/HTML-CSS-Popup/
+
+</details>
+
+<details>
+<summary>6. JavaScript Basics</summary>
+
+>1.Basic JavaScript :
+<ul>
+    <li>new is use multiple conditional (ternary) operators, iterate with JS Loops, use recursion </li>
+    <li> I wondered how many methods and instruments JS have for work </li>
+    <li> I think in free time need to learn about recursion deeper </li>
+</ul>
+
+![fest](./task_js_basics/freeCodeCamp_JS_BASE.png)
+
+
+>2.ES6 Challenges :
+<ul>
+    <li>Es6 it`s for make work easy. New was is use import/export for reuse JS code.</li>
+    <li>I liked to use destructuring the object and spread operators</li>
+    <li>Sure for good understanding new features in ES6 need to understand old possibilities of base JS language.  </li>
+</ul>
+
+![fest](./task_js_basics/ES6-JS.png)
+
+>3.Basic Data Structures :
+<ul>
+    <li>new is understanding difference of array and object and them methods</li>
+    <li>very helpful is Object.keys() methods for work with object keys.</li>
+    <li>need some practice to understand witch methods JS need to use in different situations.</li>
+</ul>
+
+![fest](./task_js_basics/basic_datastructure.png)
+  
+>4.Basic Algorithm Scripting :
+<ul>
+    <li>algorithms can be difficult, but main way to construct good one need to know with witch small parts to build them.</li>
+    <li> need to practice algorithm thinking.</li>
+</ul>
+
+![fest](./task_js_basics/basic%20algoritm%20scripting.png)
+
+>5.Functional Programming :    
+
+<ul>
+    <li>new is .map() and .filter() methods</li>
+    <li>how some methods give a possibility to write short and clean code</li>
+    <li>In future projects, I want to use .filter() and .map() methods more often instead of JS loops if it's better.</li>
+</ul>
+
+![fest](./task_js_basics/functional%20programming.png)   
+
+>7.Algorithm Scripting Challenges  : 
+<ul>
+    <li>new Set() method is very interest for make code shorten</li>
+    <li>different ways to solve one task</li>
+    <li>need to learn how to solve task with much better way and when take a new knowledge refactor the old code for make him shorten and clean.</li>
+</ul>   
+
+![fest](./task_js_basics/Intermediate%20Algorithm%20Scripting.png)   
+
+
 
 </details>
